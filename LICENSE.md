@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with new scalping bot for derivatives Module | backtesting + isolated-margin, the #1 scalping bot for derivatives. Includes backtesting and isolated-margin
 
 
 
